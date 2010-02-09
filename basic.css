@@ -89,7 +89,7 @@ ol.nav {
   color: #ccc; }
   ol.nav li {
     float: left;
-    padding-right: 5px; }
+    padding-right: 0.4em; }
 
 div.clear {
   clear: both; }
