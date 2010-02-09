@@ -85,7 +85,8 @@ img {
   margin: 0px 20px 0px 0px; }
 
 ol.nav {
-  height: 1.5em; }
+  height: 1.5em;
+  color: #ccc; }
   ol.nav li {
     float: left;
     padding-right: 10px; }
