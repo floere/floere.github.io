@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
     activesupport (3.2.11)
@@ -104,3 +104,6 @@ DEPENDENCIES
   RedCloth
   haml
   middleman (~> 3.0.6)
+
+BUNDLED WITH
+   1.12.5
