@@ -2,7 +2,7 @@
 layout: article
 published: false
 title: The&nbsp;evolution&nbsp;of&nbsp;RAILS_ENV
-categories:
+tags:
   - ruby
   - programming
   - rails

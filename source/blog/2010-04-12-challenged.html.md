@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Challenged
-categories:
+tags:
   - codetry
 ---
 The framework looms in front of you. Clouds cover the gray sky. You plunge in. Full unit test rewrite, nothing is where it was before, but right: The mailbox is in front of the house, the bathtub is finally in the bath, the fridge contains organic food. There is a pot on the fire, full of juicy stuff.

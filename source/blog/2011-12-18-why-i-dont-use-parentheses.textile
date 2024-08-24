@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Why&nbsp;I&nbsp;don't&nbsp;use&nbsp;round&nbsp;brackets
-categories:
+tags:
   - ruby
   - programming
 ---

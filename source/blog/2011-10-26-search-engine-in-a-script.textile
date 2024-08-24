@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Search&nbsp;Engine&nbsp;in&nbsp;a&nbsp;Script
-categories:
+tags:
   - ruby
   - picky
   - sinatra

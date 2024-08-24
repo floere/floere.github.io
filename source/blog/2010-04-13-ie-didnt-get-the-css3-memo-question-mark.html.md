@@ -1,7 +1,7 @@
 ---
 layout: article
 title: IE didn't get the CSS3 memo?
-categories:
+tags:
   - css
 ---
 [IE didn't get the CSS3 memo?](http://kimblim.dk/css-tests/selectors/)

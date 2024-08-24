@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Tutorial&#58;&nbsp;Rails&nbsp;3.2
-categories:
+tags:
   - ruby
   - picky
   - rails

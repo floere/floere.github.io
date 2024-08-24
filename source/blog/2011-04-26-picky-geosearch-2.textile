@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Geosearch&nbsp;2
-categories:
+tags:
   - ruby
   - picky
   - iphone

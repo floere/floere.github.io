@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Case&nbsp;Study&#58;&nbsp;Restricting&nbsp;Results
-categories:
+tags:
   - ruby
   - picky
   - "case study"

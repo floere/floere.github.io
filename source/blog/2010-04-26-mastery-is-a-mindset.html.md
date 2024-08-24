@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Mastery is a mindset
-categories:
+tags:
   - quotes
 ---
 > Mastery is a mindset.

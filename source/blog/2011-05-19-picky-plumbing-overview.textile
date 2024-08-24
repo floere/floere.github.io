@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Plumbing&nbsp;Overview
-categories:
+tags:
   - ruby
   - picky
 ---

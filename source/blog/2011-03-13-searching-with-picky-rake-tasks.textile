@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Searching with Picky&#58; Rake Tasks
-categories:
+tags:
   - ruby
   - picky
   - rake
@@ -108,12 +108,12 @@ Application(s)
     Indexes:
       books (Index::Memory):
         source:            Sources::DB("SELECT id, title, author, year FROM books", {:file=>"app/db.yml"})
-        categories:        id, title, author, year
+        tags:        id, title, author, year
         result identifier: "boooookies"
 
       redis (Index::Redis):
         source:            Sources::CSV(title, author, isbn, year, publisher, subjects, {:file=>"data/books.csv"})
-        categories:        title, author, year, publisher, subjects
+        tags:        title, author, year, publisher, subjects
 
 
     Routes:
@@ -190,7 +190,7 @@ It also tells you when an index or category is not there:
 <pre class="sh_bash"><code>$ rake index:specific[books,isbn]
 ...
 rake aborted!
-Index category "isbn" not found. Possible categories: "id", "title", "author", "year".</code></pre>
+Index category "isbn" not found. Possible tags: "id", "title", "author", "year".</code></pre>
 
 h2. rake check...
 

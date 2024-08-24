@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Stuttering Proc
-categories:
+tags:
   - ruby
   - funky
 ---

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: You already knew that, right? (Assigning with splats)
-categories:
+tags:
   - ruby
 ---
 <script src="http://gist.github.com/385121.js"></script>

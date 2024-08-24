@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Javuby?
-categories:
+tags:
   - ruby
   - java
 ---

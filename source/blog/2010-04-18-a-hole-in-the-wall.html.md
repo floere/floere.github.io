@@ -1,7 +1,7 @@
 ---
 layout: article
 title: A hole in the wall
-categories:
+tags:
   - codetry
 ---
 His stool leaned back at a dangerous angle, he displays a pair of jamaica-colored sneakers to the public. Them sticking out of his business hole seems rather odd, considering the sober surroundings of the Niederdorf, or "nether village", as this particular place in Zürich is called.

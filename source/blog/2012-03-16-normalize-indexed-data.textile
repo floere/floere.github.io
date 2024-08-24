@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Normalizing&nbsp;Indexed&nbsp;Data
-categories:
+tags:
   - ruby
   - picky
   - indexing

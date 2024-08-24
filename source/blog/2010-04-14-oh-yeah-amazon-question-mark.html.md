@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Oh yeah, Amazon?
-categories:
+tags:
   - marketing
 ---
 From the latest Newsletter:

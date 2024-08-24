@@ -1,7 +1,7 @@
 ---
 layout: article
 title: CocoaPods&nbsp;Search&nbsp;Design
-categories:
+tags:
   - ruby
   - picky
   - search design

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Strategy pattern pattern pattern pattern
-categories:
+tags:
   - ruby
   - patterns
 ---

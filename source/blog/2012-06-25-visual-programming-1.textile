@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Visual&nbsp;Programming&nbsp;1
-categories:
+tags:
   - visual programming
   - experiments
   - UIs

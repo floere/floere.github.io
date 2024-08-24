@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Active&nbsp;Record
-categories:
+tags:
   - ruby
   - picky
 ---

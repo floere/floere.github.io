@@ -1,7 +1,7 @@
 ---
 layout: article
 title: And&nbsp;faster&nbsp;still
-categories:
+tags:
   - ruby
   - picky
   - performance

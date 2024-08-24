@@ -1,11 +1,12 @@
 ---
 layout: article
 title: Fat slows you down
-categories:
+tags:
   - ruby
   - performance
 ---
 Fat slows you down.
 
 If you really need speed in Ruby 1.9, consider this example:
+
 <script src="http://gist.github.com/395419.js"></script>

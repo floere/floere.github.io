@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Ignoring&nbsp;Unassigned&nbsp;Tokens
-categories:
+tags:
   - ruby
   - picky
 ---

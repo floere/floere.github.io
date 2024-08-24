@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Searching with Picky&#58; Partial Search
-categories:
+tags:
   - series
   - ruby
   - picky

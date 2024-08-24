@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Happy&nbsp;1st&nbsp;Birthday!
-categories:
+tags:
   - ruby
   - picky
 ---

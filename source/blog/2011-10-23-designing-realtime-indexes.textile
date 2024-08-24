@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Designing&nbsp;Realtime&nbsp;Indexes
-categories:
+tags:
   - ruby
   - picky
   - indexing

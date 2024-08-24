@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Recipes
-categories:
+tags:
   - ruby
   - picky
 ---

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Reloading a running Ruby application
-categories:
+tags:
   - ruby
   - funky
 ---

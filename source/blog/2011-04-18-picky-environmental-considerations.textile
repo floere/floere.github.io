@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Environmental&nbsp;Considerations
-categories:
+tags:
   - ruby
   - picky
 ---

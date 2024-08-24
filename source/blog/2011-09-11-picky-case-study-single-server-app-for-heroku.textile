@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Case&nbsp;Study&#58;&nbsp;Single&nbsp;Server&nbsp;App&nbsp;for&nbsp;Heroku
-categories:
+tags:
   - ruby
   - picky
   - "case study"

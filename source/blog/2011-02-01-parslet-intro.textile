@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Parslet Intro
-categories:
+tags:
   - ruby
   - parser
 ---

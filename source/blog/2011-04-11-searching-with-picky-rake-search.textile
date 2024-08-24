@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Searching with Picky&#58; In&nbsp;the&nbsp;Terminal
-categories:
+tags:
   - ruby
   - picky
   - gems

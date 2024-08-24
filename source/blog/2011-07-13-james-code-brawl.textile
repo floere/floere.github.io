@@ -1,7 +1,7 @@
 ---
 layout: article
 title: James&#58;&nbsp;Code&nbsp;Brawl
-categories:
+tags:
   - macruby
   - james
   - codebrawl

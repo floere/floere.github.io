@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Migrating&nbsp;to&nbsp;Picky&nbsp;3.1&nbsp;(from&nbsp;3.0)
-categories:
+tags:
   - ruby
   - picky
 ---

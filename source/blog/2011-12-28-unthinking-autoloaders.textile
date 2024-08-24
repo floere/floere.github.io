@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Unthinking&nbsp;Autoloader
-categories:
+tags:
   - ruby
   - programming
 ---

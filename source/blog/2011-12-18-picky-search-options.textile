@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Search&nbsp;Options
-categories:
+tags:
   - ruby
   - picky
   - api

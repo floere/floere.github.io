@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Profiling MySQL Queries
-categories:
+tags:
   - database
   - profiling
 ---

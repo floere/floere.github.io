@@ -2,7 +2,7 @@
 published: false
 layout: article
 title: Object&nbsp;Pool&nbsp;Pattern
-categories:
+tags:
   - ruby
   - patterns
 ---

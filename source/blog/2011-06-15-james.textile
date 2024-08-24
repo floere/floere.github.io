@@ -1,7 +1,7 @@
 ---
 layout: article
 title: James
-categories:
+tags:
   - macruby
   - james
 ---

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Why open sourcing security critical software is important
-categories:
+tags:
   - security
   - open source
 ---

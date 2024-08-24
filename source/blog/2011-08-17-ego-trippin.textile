@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Ego&nbsp;Trippin&#8217;
-categories:
+tags:
   - ruby
   - picky
 ---

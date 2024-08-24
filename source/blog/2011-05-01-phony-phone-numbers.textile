@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Phony&#58;&nbsp;Phone&nbsp;Numbers
-categories:
+tags:
   - ruby
   - phony
   - e164

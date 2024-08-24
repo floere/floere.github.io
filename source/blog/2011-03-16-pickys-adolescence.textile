@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky's Coming of Age
-categories:
+tags:
   - ruby
   - picky
   - api

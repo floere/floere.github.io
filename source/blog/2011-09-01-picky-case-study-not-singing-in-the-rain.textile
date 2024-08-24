@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Case&nbsp;Study&#58;&nbsp;Running&nbsp;it&nbsp;in&nbsp;a&nbsp;DRb&nbsp;Server
-categories:
+tags:
   - ruby
   - picky
   - "case study"

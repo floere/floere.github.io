@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Statistics&nbsp;Interface
-categories:
+tags:
   - ruby
   - picky
 ---

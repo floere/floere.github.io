@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Guest&nbsp;Post:&nbsp;Chris&nbsp;Corbyn&nbsp;of&nbsp;Flippa
-categories:
+tags:
   - search engine design
   - guest post
 ---

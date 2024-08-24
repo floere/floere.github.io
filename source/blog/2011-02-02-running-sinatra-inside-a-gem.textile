@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Running Sinatra inside a Ruby Gem
-categories:
+tags:
   - series
   - ruby
   - picky

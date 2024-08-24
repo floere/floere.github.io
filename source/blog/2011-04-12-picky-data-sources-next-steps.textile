@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;Data&nbsp;Sources&#58; Next&nbsp;Steps
-categories:
+tags:
   - ruby
   - picky
   - gems

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Speccing methods called in initialize
-categories:
+tags:
   - ruby
   - testing
 ---

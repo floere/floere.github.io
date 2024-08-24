@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Searching with Picky&#58; Range/Area/Volume&nbsp;etc.&nbsp;Search
-categories:
+tags:
   - ruby
   - picky
   - gems
@@ -165,7 +165,7 @@ This would make you find the "Zugerberg", while using a height of 500 wouldn't.
 
 h3(#funky). Let's get funky!
 
-We don't need to use all categories:
+We don't need to use all tags:
 
 <pre class="sh_search"><code>47.12, f*, 412</code></pre>
 

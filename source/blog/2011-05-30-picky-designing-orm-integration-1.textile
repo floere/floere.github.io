@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&#58;&nbsp;Designing&nbsp;an ORM&nbsp;Integration&nbsp;1
-categories:
+tags:
   - ruby
   - picky
   - orm

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Most important Ruby method 2010
-categories:
+tags:
   - ruby
 ---
 It's @squeeze@!

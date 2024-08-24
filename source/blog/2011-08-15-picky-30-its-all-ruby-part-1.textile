@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Picky&nbsp;3.0&#58;&nbsp;It's&nbsp;all&nbsp;Ruby!&nbsp;(Part&nbsp;1)
-categories:
+tags:
   - ruby
   - picky
 ---

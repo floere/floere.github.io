@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Experimental&nbsp;Features&nbsp;for&nbsp;Picky&nbsp;5
-categories:
+tags:
   - ruby
   - picky
 ---

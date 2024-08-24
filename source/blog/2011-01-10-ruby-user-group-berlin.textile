@@ -2,7 +2,7 @@
 published: false
 layout: article
 title: Reflecting on my visit to the Ruby User Group Berlin
-categories:
+tags:
   - ruby
   - presenting
 ---

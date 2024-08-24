@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Business&nbsp;Cards
-categories:
+tags:
   - technology astronauts
   - business
 ---

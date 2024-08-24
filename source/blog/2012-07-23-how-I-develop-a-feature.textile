@@ -1,7 +1,7 @@
 ---
 layout: article
 title: How&nbsp;I&nbsp;develop&nbsp;a&nbsp;feature&nbsp;for&nbsp;Picky
-categories:
+tags:
   - ruby
   - picky
   - development

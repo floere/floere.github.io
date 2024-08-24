@@ -5,7 +5,7 @@
     %link{ rel: 'shortcut icon', href: './favico.ico' }
     %link{ href: './atom.xml', rel: "alternate", title: 'code is code', type: 'application/atom+xml' }
     %link{ rel: 'stylesheet', href: './stylesheets/basic.css', type: 'text/css' }
-    %link{ rel: 'stylesheet', href: './stylesheets/specific.css', type: 'text/css' }
+    %link{ rel: 'stylesheet', href: './stylesheets/blog.css', type: 'text/css' }
     %title Florian Hanke – Code is Code
     :javascript
       var _gaq = _gaq || [];
@@ -18,27 +18,9 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
   %body
-    %ol.nav
-      %li
-        %a{ :href => '/../' } home
-        •
-      %li
-        %a{ :href => '/../blog/' } blog
-        •
-      %li
-        %a{ :href => '/../picky/' } picky
-        •
-      %li
-        %a{ :href => '/../phd/' } phd
-        •
-      %li
-        %a{ :href => '/../phony/' } phony
-        •
-      %li
-        %a{ :href => '/../view_models/' } view models
-    %div
-      %h1
-        Code is Code
-        %a{ :href => './atom.xml' } ☛ subscribe
-      %h4 Florian Hanke
-      = yield
+    = partial :navigation
+    = partial :header
+    %h2
+      Code is Code
+      %a{ :href => './atom.xml' } ☛ subscribe
+    = yield
