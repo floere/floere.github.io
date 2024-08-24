@@ -5,7 +5,7 @@ categories:
   - ruby
   - patterns
 ---
-A pattern that I often see cropping up in my "game framework":http://github.com/floere/gosu_extensions.
+A pattern that I often see cropping up in my [game framework](http://github.com/floere/gosu_extensions).
 
 It can be used for configuring subclasses that act according to an order of calls defined in the superclass. How the calls exactly work can be defined in the subclasses (or in an external configuration) using the class methods.
 

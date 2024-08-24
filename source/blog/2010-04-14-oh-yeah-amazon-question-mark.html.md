@@ -6,7 +6,7 @@ categories:
 ---
 From the latest Newsletter:
 
-@Support for Session Stickiness in Elastic Load Balancing Amazon Elastic MapReduce Introduces Custom Cluster Configuration Option@
+> Support for Session Stickiness in Elastic Load Balancing Amazon Elastic MapReduce Introduces Custom Cluster Configuration Option
 
 They also have Gurble Blurble Fickleness, introducing Jambawambing Lordle Figuconation Schnorptions.
 
