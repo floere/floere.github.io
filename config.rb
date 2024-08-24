@@ -25,7 +25,7 @@ end
 activate :blog do |blog|
   blog.default_extension = ".md"
   blog.layout = 'article'
-  blog.permalink = "http://florianhanke.com/blog/{slug}.html"
+  blog.permalink = "blog/{year}/{month}/{day}/{title}.html"
   blog.sources = "blog/{year}-{month}-{day}-{title}.html"
   blog.summary_length = 250
   # blog.taglink = "categories/{tag}.html"
