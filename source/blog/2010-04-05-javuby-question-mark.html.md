@@ -1,0 +1,8 @@
+---
+layout: article
+title: Javuby?
+categories:
+  - ruby
+  - java
+---
+<script src="http://gist.github.com/356227.js"></script>

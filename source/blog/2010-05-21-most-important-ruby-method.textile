@@ -1,0 +1,8 @@
+---
+layout: article
+title: Most important Ruby method 2010
+categories:
+  - ruby
+---
+It's @squeeze@!
+<script src="http://gist.github.com/408937.js"></script>

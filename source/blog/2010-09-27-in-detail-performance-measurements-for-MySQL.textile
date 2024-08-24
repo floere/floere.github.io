@@ -1,0 +1,10 @@
+---
+layout: article
+title: Profiling MySQL Queries
+categories:
+  - database
+  - profiling
+---
+"Profiling MySQL Queries":http://dev.mysql.com/tech-resources/articles/using-new-query-profiler.html
+
+In-detail performance measurements for MySQL queries.

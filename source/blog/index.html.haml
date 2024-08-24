@@ -1,0 +1,22 @@
+---
+
+layout: blog
+title: Blog
+
+---
+
+- year, month = nil, nil
+- blog.articles.sort_by { |article| article.date }.reverse.each do |article|
+  - if article.date.year != year
+    - year = article.date.year
+    .year
+      = year
+  - if article.date.month != month
+    - month = article.date.month
+    .month
+      = month
+      -# = site.config['months'][month-1]
+  %a.line{ href: article.url }
+    %span.calendar= article.date.strftime('%d')
+    = article.title
+    %span.categories= article.tags.join(', ')
